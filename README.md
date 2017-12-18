@@ -4,4 +4,9 @@
 
 3.ShadowsocksX-NG.1.7.0-MacOS.zip  为Mac OS客户端.
 
-4.iPhone手机,iPad平板用户需要在Apple Store中搜索下载安装免费App: SsrConnectPro | GreatWingy | SuperWingy | BestWingy | OpenWingy , 排名不分前后且配置大同小异,建议尽早下载备用.
+4.iPhone手机,iPad平板用户需要在Apple Store中搜索下载安装免费App, 排名不分前后且配置大同小异,建议尽早下载备用:
+SsrConnectPro
+GreatWingy
+SuperWingy
+BestWingy
+OpenWingy 
